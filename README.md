@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anton Zolotov</h1>
 <h3 align="center">A professional frontend developer from Russia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=j2only" alt="j2only" /></a> </p>
-
 - 🔭 I’m currently working on [PerfectCup](https://yourperfectcup.ru/)
 
 <h3 align="left">Languages and Tools:</h3>
@@ -11,5 +9,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=j2only&show_icons=true&locale=en&layout=compact" alt="j2only" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=j2only&show_icons=true&locale=en" alt="j2only" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=j2only&" alt="j2only" /></p>
